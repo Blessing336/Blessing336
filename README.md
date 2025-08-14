@@ -16,4 +16,5 @@ Here are some ideas to get you started:
 -->
 
 
-![Nature's Fruit Project](Orange Juice.png)
+![Nature's Fruit Project]((https://github.com/Blessing336/Blessing336/blob/2acf216dec452b821cbeae41c803b387da107eaa/Orange%20Juice.png))
+
