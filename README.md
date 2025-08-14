@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 
 
 ![spotify](https://github.com/Blessing336/Blessing336/blob/abf0559a93b48d22cc4cbf980ece856eab17267c/Spotify%20gif.gif)
-![Nature's Fruit Project]((https://github.com/Blessing336/Blessing336/blob/2acf216dec452b821cbeae41c803b387da107eaa/Orange%20Juice.png))
+![Nature's Fruit Project](https://github.com/Blessing336/Blessing336/blob/2acf216dec452b821cbeae41c803b387da107eaa/Orange%20Juice.png)
 
