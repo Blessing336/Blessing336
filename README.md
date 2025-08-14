@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 
-![Example Image](images/example.png)
+![Nature's Fruit Project](Orange Juice.png)
