@@ -3,7 +3,7 @@
 ###
 
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
-
+<br/>
 <div align="left">
   <img src="https://github.com/Blessing336/Blessing336/blob/d4063fe54aa60bfa73db12ed629726aa2791616f/Resources/Microsoft_Excel.png" height="40" alt="microsoft"  />
   <img width="20" />
@@ -14,8 +14,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python"  />
   <img width="20" />
 
-<br/><br/>
-
+<br/>
 
 
 <div align="left">
@@ -69,7 +68,7 @@ But my favourite twist? Late last year, I stumbled into design and data storytel
 
 Right now, I’m sharpening my skills in building data pipelines and learning ETL processes, learning how to make models run faster and more efficiently. It’s part of my ongoing journey of blending analytics, storytelling, and design into something that impacts.
 
-<br/> <br/>
+<br/>
 
 
 
