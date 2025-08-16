@@ -1,14 +1,13 @@
-## Hello 👋,  Blessing here.
+## Hello, Blessing here 👋
 
 
+Firstly, I have helped drove 8% boost in company revenue within six months by analysing real estate opportunities which gave investors edges over their competitors. That work alone supported investments worth ₦32 million.
 
-I once helped drive an 8% boost in company revenue within six months by analysing real estate opportunities that gave properties an edge over the competition. That work alone supported investments worth up to ₦32 million.
+Secondly, my monthly reports turned insights into clear decisions for stakeholders, and I even designed a data validation tool in Excel that doubled accuracy, leaving the database error-free. Somewhere along the way, I found myself promoted to Team Leader, guiding strategy and bringing in new clients.
 
-I wasn’t just running numbers — I was telling stories with them. My weekly reports turned complex insights into clear decisions for stakeholders, and I even designed a data validation tool in Excel that doubled accuracy, leaving the database error-free. Somewhere along the way, I found myself promoted to Team Leader, guiding strategy and bringing in new clients.
+But my favourite twist? Late last year, I stumbled into design and data storytelling — and I’ve been hooked ever since. It feels less like “work” and more like discovering hidden narratives in numbers.
 
-But my favourite twist? Late last year, I stumbled into design and data storytelling — and I’ve been hooked ever since. It feels less like “work” and more like uncovering hidden narratives inside numbers.
-
-Right now, I’m sharpening my skills in building data pipelines and ETL processes, learning how to make models run faster and more efficiently. It’s part of my ongoing journey of blending analytics, storytelling, and design into something that sparks both impact and curiosity.
+Right now, I’m sharpening my skills in building data pipelines and learning ETL processes, learning how to make models run faster and more efficiently. It’s part of my ongoing journey of blending analytics, storytelling, and design into something that impacts.
 
 <!--
 **Blessing336/Blessing336** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
