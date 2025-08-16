@@ -12,6 +12,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="python"  />
   <img width="50" />
 
+<br/><br/>
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
 
@@ -24,7 +25,7 @@
   </a>
 </div>
 
-<br/><br/><br/><br/>
+<br/><br/>
 
 </div>
 
