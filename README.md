@@ -29,7 +29,7 @@ Right now, I’m sharpening my skills in building data pipelines and learning ET
 
 <br/> <br/>
 
-So, reach me on jegedeblessing336@gmail.com
+So, reach me on jegedeblessing336@gmail.com / in/jegede-blessing
 
 <!--
 **Blessing336/Blessing336** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
