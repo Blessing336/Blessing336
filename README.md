@@ -13,9 +13,11 @@
   <img width="12" />
 </div>
 
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+
 
 
 * I have helped drove 8% boost in company revenue within six months by analysing real estate opportunities which gave investors edges over their competitors. That work alone supported investments worth ₦32 million.
