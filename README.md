@@ -4,7 +4,7 @@
 
 <div align="left">
   <img src="https://github.com/Blessing336/Blessing336/blob/d4063fe54aa60bfa73db12ed629726aa2791616f/Resources/Microsoft_Excel.png" height="30" alt="microsoft"  />
-  <img width="12" />
+  <img width="15" />
   <img src="https://github.com/Blessing336/Blessing336/blob/fa788a1bf07db35bf57484bf33da2f08e63ec559/Resources/power%20bi.png" height="40" alt="power bi"  />
   <img width="12" />
   <img src="https://github.com/Blessing336/Blessing336/blob/dcf2014e871a5c79fa4fb8eaaa0d860194789f19/Resources/sql.png" height="30" alt="sql"  />
@@ -14,7 +14,7 @@
 
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
-<br/><br/>
+<br/><br/><br/><br/>
 
 </div>
 
