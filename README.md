@@ -2,7 +2,7 @@
 
 ###
 
-<div align="centre">
+<div align="center">
   <img src="https://github.com/Blessing336/Blessing336/blob/d4063fe54aa60bfa73db12ed629726aa2791616f/Resources/Microsoft_Excel.png" height="50" alt="microsoft"  />
   <img width="70" />
   <img src="https://github.com/Blessing336/Blessing336/blob/fa788a1bf07db35bf57484bf33da2f08e63ec559/Resources/power%20bi.png" height="50" alt="power bi"  />
