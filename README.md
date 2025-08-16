@@ -27,6 +27,10 @@ But my favourite twist? Late last year, I stumbled into design and data storytel
 
 Right now, I’m sharpening my skills in building data pipelines and learning ETL processes, learning how to make models run faster and more efficiently. It’s part of my ongoing journey of blending analytics, storytelling, and design into something that impacts.
 
+<br/> <br/>
+
+So, reach me on jegedeblessing336@gmail.com
+
 <!--
 **Blessing336/Blessing336** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
