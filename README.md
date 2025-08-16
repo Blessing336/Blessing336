@@ -46,7 +46,7 @@ Right now, I’m sharpening my skills in building data pipelines and learning ET
 ###
 
 <div align="left">
-  <img src="https://drive.google.com/file/d/1sQ6kbvZ_qupS5wLuH7Tn75PGb7NTmkvV/view?usp=sharing" height="30" alt="microsoft logo"  />
+  <img src="https://github.com/Blessing336/Blessing336/blob/d4063fe54aa60bfa73db12ed629726aa2791616f/Resources/Microsoft_Excel.png" height="30" alt="microsoft logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
   <img width="12" />
