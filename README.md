@@ -5,13 +5,13 @@
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
 <div align="left">
-  <img src="https://github.com/Blessing336/Blessing336/blob/d4063fe54aa60bfa73db12ed629726aa2791616f/Resources/Microsoft_Excel.png" height="50" alt="microsoft"  />
+  <img src="https://github.com/Blessing336/Blessing336/blob/d4063fe54aa60bfa73db12ed629726aa2791616f/Resources/Microsoft_Excel.png" height="30" alt="microsoft"  />
   <img width="20" />
-  <img src="https://github.com/Blessing336/Blessing336/blob/fa788a1bf07db35bf57484bf33da2f08e63ec559/Resources/power%20bi.png" height="50" alt="power bi"  />
+  <img src="https://github.com/Blessing336/Blessing336/blob/fa788a1bf07db35bf57484bf33da2f08e63ec559/Resources/power%20bi.png" height="30" alt="power bi"  />
   <img width="20" />
-  <img src="https://github.com/Blessing336/Blessing336/blob/dcf2014e871a5c79fa4fb8eaaa0d860194789f19/Resources/sql.png" height="50" alt="sql"  />
+  <img src="https://github.com/Blessing336/Blessing336/blob/dcf2014e871a5c79fa4fb8eaaa0d860194789f19/Resources/sql.png" height="30" alt="sql"  />
   <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="python"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python"  />
   <img width="20" />
 
 <br/><br/>
@@ -22,7 +22,7 @@
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=jegedeblessing330@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
   </a>
-<img width="20" />
+<img width="40" />
   <a href="https://www.linkedin.com/in/jegede-blessing" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
