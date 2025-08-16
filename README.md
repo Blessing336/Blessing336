@@ -52,7 +52,7 @@ Right now, I’m sharpening my skills in building data pipelines and learning ET
   <img width="12" />
   <img src="https://github.com/Blessing336/Blessing336/blob/dcf2014e871a5c79fa4fb8eaaa0d860194789f19/Resources/sql.png" height="30" alt="sql"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img src="https://github.com/Blessing336/Blessing336/blob/52c0a21a2ec922530fb52131b3d3bef9b4f61e33/Resources/python.png" height="30" alt="python"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
   <img width="12" />
