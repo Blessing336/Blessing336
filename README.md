@@ -1,4 +1,4 @@
-## Hello, Blessing here 👋
+## Hello, Blessing here 👋  / Reach me via jegedeblessing336@gmail.com
 
 
 * I have helped drove 8% boost in company revenue within six months by analysing real estate opportunities which gave investors edges over their competitors. That work alone supported investments worth ₦32 million.
