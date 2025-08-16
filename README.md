@@ -1,10 +1,11 @@
 ## Hello, Blessing here 👋
 
 
-Firstly, I have helped drove 8% boost in company revenue within six months by analysing real estate opportunities which gave investors edges over their competitors. That work alone supported investments worth ₦32 million.
+* I have helped drove 8% boost in company revenue within six months by analysing real estate opportunities which gave investors edges over their competitors. That work alone supported investments worth ₦32 million.
 
-Secondly, my monthly reports turned insights into clear decisions for stakeholders, and I even designed a data validation tool in Excel that doubled accuracy, leaving the database error-free. Somewhere along the way, I found myself promoted to Team Leader, guiding strategy and bringing in new clients.
+* My monthly reports turned insights into clear decisions for stakeholders, and I even designed a data validation tool in Excel that doubled accuracy, leaving the database error-free. Somewhere along the way, I found myself promoted to Team Leader, guiding strategy and bringing in new clients.
 
+<br/> <br/>
 But my favourite twist? Late last year, I stumbled into design and data storytelling — and I’ve been hooked ever since. It feels less like “work” and more like discovering hidden narratives in numbers.
 
 Right now, I’m sharpening my skills in building data pipelines and learning ETL processes, learning how to make models run faster and more efficiently. It’s part of my ongoing journey of blending analytics, storytelling, and design into something that impacts.
