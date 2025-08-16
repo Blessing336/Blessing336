@@ -2,6 +2,8 @@
 
 ###
 
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+
 <div align="left">
   <img src="https://github.com/Blessing336/Blessing336/blob/d4063fe54aa60bfa73db12ed629726aa2791616f/Resources/Microsoft_Excel.png" height="50" alt="microsoft"  />
   <img width="50" />
@@ -13,7 +15,7 @@
   <img width="50" />
 
 <br/><br/>
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+
 
 
 <div align="left">
