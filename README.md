@@ -11,9 +11,12 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python"  />
   <img width="12" />
-</div>
 
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+
+</div>
+
+
 
 ###
 
