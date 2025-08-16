@@ -1,4 +1,4 @@
-## Hello, Blessing here 👋    (Reach me via jegedeblessing336@gmail.com)
+## Hello, Blessing here 👋
 
 ###
 
