@@ -55,7 +55,11 @@ But my favourite twist? Late last year, I stumbled into design and data storytel
 
 <br/>
 
-![Nature's Fruit Project](https://github.com/Blessing336/Blessing336/blob/f05edb9855c31f42018ed369349a5f2b6d4908a9/Resources/natures%20gif%20(2).gif)
+<div>
+<a href="https://github.com/Blessing336/Natures_Best_Underfill_Rate_Analysis/tree/main" target="_blank">
+    <img src="https://github.com/Blessing336/Blessing336/blob/f05edb9855c31f42018ed369349a5f2b6d4908a9/Resources/natures%20gif%20(2).gif"  alt="Nature's Fruit Project" />
+  </a>
+</div>
 
 <br/> <br/>
 
