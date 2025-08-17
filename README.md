@@ -67,7 +67,12 @@ But my favourite twist? Late last year, I stumbled into design and data storytel
 
 <br/>
 
-![spotify](https://github.com/Blessing336/Blessing336/blob/444972ded1373ed4b72756d1d53abb6730e096e6/Resources/Spotify%20gif.gif)
+<div>
+<a href="https://github.com/Blessing336/Spotify_Rewind_-fun_project-" target="_blank">
+    <img src="https://github.com/Blessing336/Blessing336/blob/444972ded1373ed4b72756d1d53abb6730e096e6/Resources/Spotify%20gif.gif"  alt="Spotify Project" />
+  </a>
+</div>
+
 <br/> <br/>
 
 Right now, I’m sharpening my skills in building data pipelines and learning ETL processes, learning how to make models run faster and more efficiently. It’s part of my ongoing journey of blending analytics, storytelling, and design into something that impacts.
