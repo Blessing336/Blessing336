@@ -51,6 +51,17 @@ But my favourite twist? Late last year, I stumbled into design and data storytel
 
 <br/>
 
+### Check out my Projects
+
+![Excel Projects](https://github.com/Blessing336/Excel_Projects)
+
+![SQL Projects](https://github.com/Blessing336/SQL_Projects)
+
+![Power BI Projects](https://github.com/Blessing336/Power_BI_Projects)
+
+![Python Projects](https://github.com/Blessing336/Python_Projects)
+
+
 ### Here's a sample project:
 
 <br/>
