@@ -53,13 +53,15 @@ Recently, I stumbled into design and data storytelling and I’ve been hooked ev
 
 ### Check out my Projects
 
-![Excel Projects](https://github.com/Blessing336/Excel_Projects)
+[Excel Projects](https://github.com/Blessing336/Excel_Projects)
 
-![SQL Projects](https://github.com/Blessing336/SQL_Projects)
+[SQL Projects](https://github.com/Blessing336/SQL_Projects)
 
-![Power BI Projects](https://github.com/Blessing336/Power_BI_Projects)
+[Power BI Projects](https://github.com/Blessing336/Power_BI_Projects)
 
-![Python Projects](https://github.com/Blessing336/Python_Projects)
+[Python Projects](https://github.com/Blessing336/Python_Projects)
+
+[Fun Projects](https://github.com/Blessing336/Fun_Projects)
 
 
 ### Here's a sample project:
