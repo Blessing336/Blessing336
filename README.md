@@ -47,7 +47,7 @@
 * My monthly reports turned insights into clear decisions for stakeholders, and I even designed a data validation tool in Excel that doubled accuracy, leaving the database error-free. Somewhere along the way, I found myself promoted to Team Leader, guiding strategy and bringing in new clients.
 
 <br/> <br/>
-Recently, I stumbled into design and data storytelling and I’ve been hooked ever since. It feels less like “work” and more like reavealing hidden narratives in numbers.
+But my favourite twist? Late last year, I stumbled into design and data storytelling and I’ve been hooked ever since. It feels less like “work” and more like reavealing hidden narratives in numbers.
 
 <br/>
 
