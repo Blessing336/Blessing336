@@ -59,7 +59,10 @@ But my favourite twist? Late last year, I stumbled into design and data storytel
 
 [Power BI Projects](https://github.com/Blessing336/Power_BI_Projects)
 
+
+<!--
 [Python Projects](https://github.com/Blessing336/Python_Projects)
+-->
 
 [Fun Projects](https://github.com/Blessing336/Fun_Projects)
 
